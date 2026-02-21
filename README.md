@@ -14,25 +14,26 @@ Insights are generated using rule-based and extensible logic
 Reports are delivered via scalable APIs
 
 The architecture emphasizes separation of concerns, maintainability, and future integration with intelligent automation workflows.
+<br>
 **🏗️ Architecture Approach**
 
 This project follows a layered and modular design:
 
 Frontend (UI)
 <br>
-        ↓
+          ↓
         <br>
 FastAPI Backend (API Layer)
-<br>
-        ↓
+        <br>
+          ↓
         <br>
 Service Layer (Business Logic)
-<br>
-        ↓
+        <br>
+          ↓
         <br>
 Analysis Engines (Domain Logic)
-<br>
-        ↓
+        <br>
+         ↓
         <br>
 PostgreSQL Database
 
