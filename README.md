@@ -15,6 +15,7 @@ Reports are delivered via scalable APIs
 
 The architecture emphasizes separation of concerns, maintainability, and future integration with intelligent automation workflows.
 <br>
+
 **🏗️ Architecture Approach**
 
 This project follows a layered and modular design:
