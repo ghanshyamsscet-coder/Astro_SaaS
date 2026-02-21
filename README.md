@@ -20,23 +20,28 @@ The architecture emphasizes separation of concerns, maintainability, and future 
 
 This project follows a layered and modular design:
 
+<div align="center">
+
 Frontend (UI)
-<br>
-          ↓
-        <br>
+
+↓
+
 FastAPI Backend (API Layer)
-        <br>
-          ↓
-        <br>
+
+↓
+
 Service Layer (Business Logic)
-        <br>
-          ↓
-        <br>
+
+↓
+
 Analysis Engines (Domain Logic)
-        <br>
-         ↓
-        <br>
+
+↓
+
 PostgreSQL Database
+
+</div>
+
 
 
 **Key principles:**
